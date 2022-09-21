@@ -1,4 +1,3 @@
-from doctest import OutputChecker
 from functools import wraps
 import secrets
 from flask import request, jsonify, json
